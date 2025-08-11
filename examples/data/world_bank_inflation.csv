@@ -1,0 +1,190 @@
+country_code,country_name,indicator_code,indicator_name,year,value
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,1.3572659269347
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,7.90676213077326
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,7.78502011074684
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,1.07081026105622
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,1.54607073393581
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,1.65111818043586
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,2.57101464490069
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,0.716978150638226
+CAN,Canada,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,-0.86765132022812
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,6.14291652076442
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,6.09185663198414
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,2.80292936590148
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,1.75504599873261
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,2.01597612276328
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,1.86533423151265
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,1.46798916726962
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,1.25625863629057
+DEU,Germany,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,1.68539776821872
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,5.30357173576937
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,3.22063216992299
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,1.22181614073425
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,2.97797868174696
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,1.21052308336793
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,1.11459331332806
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,0.586343157961707
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,0.517258232209031
+FRA,France,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,1.13444009013935
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,6.88853758661627
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,5.44390476600624
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,0.066556651367506
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,4.96982050842443
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,2.13295139419517
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,1.92064709316311
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,1.85511702317338
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,1.96415131491665
+GBR,United Kingdom,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,0.658400607028796
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,5.91461605792436
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,3.45535917134771
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,1.28332187292641
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,1.57740278796771
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,1.04700690430435
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,1.07058151640653
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,0.709821715080693
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,1.24817184167345
+ITA,Italy,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,0.782776477740896
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,4.06819848886964
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,0.399048968762756
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,-0.203835821828704
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,0.933912186858549
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,0.634803165679926
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,-0.000237506459967562
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,-0.0743495037964408
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,0.419944376171273
+JPN,Japan,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,2.11129899321594
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2023,3.59839135378085
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2022,7.1294808542103
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2021,4.56598550261991
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2020,1.32883273821456
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2019,1.65046566913468
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2018,2.29089027694309
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2017,1.79080328635395
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2016,0.950322477762683
+USA,United States,NY.GDP.DEFL.KD.ZG,GDP deflator (annual %),2015,0.928042793340694
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.87900159788426
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.80280115341613
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,3.39519318527528
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.716999632307827
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.94926902411593
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.26822567248103
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.59688412852977
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.42875954701085
+CAN,Canada,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,1.12524136094277
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.94643667725823
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,6.87257438551097
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,3.06666666666673
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.144877925813982
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.44565976888253
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.73216879766942
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.50949485109628
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.491747008445174
+DEU,Germany,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.514426137125456
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.87835726508441
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,5.22236748369735
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.64233141038385
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.476498852725066
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.10825492288294
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.85081508315502
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.03228275064662
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.18333486112386
+FRA,France,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.0375143805125182
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.79396706793963
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,7.92204883147902
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,2.51837109614213
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.989486703772491
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.73810460086513
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.29283990345938
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,2.55775577557747
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.0084173681141
+GBR,United Kingdom,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.36804684232536
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,5.62219442195901
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,8.20128991161718
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.87378325762481
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,-0.13770757391651
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.611246943765304
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.13748763600391
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,1.22653316645812
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,-0.09401665691575
+ITA,Italy,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.0387903996579733
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,3.26813365933163
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,2.49770278172255
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,-0.233352779398264
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,-0.024995834027731
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.46877615938395
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,0.989094598021848
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,0.484199796126385
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,-0.127258844489754
+JPN,Japan,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.795279630579839
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.11633838374488
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,8.00279982052121
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.69785886363742
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,1.23358439630629
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.81221007526021
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,2.44258329692817
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,2.13011000365961
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,1.26158320570536
+USA,United States,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,0.118627135552451
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,117.88592495984
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,116.30732526351
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,107.785020110747
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,98.9405346031259
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,97.4341339729069
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,95.8515122282831
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,93.4489266388946
+CAN,Canada,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,92.7836878695138
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,115.765341292561
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,109.065536436352
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,102.802929365901
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,98.275224602862
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,96.3331708796279
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,94.5691403325575
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,93.2009603311056
+DEU,Germany,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,92.0446415721132
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,110.023065649373
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,104.481798514343
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,101.221816140734
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,97.1081402840986
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,95.9466835322152
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,94.8890564538999
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,94.335924216755
+FRA,France,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,93.8504749093193
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,112.782462081692
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,105.51408469809
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,100.066556651368
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,95.2654767967089
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,93.2759462017499
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,91.5182044679217
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,89.8513566550614
+GBR,United Kingdom,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,88.1205359887272
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,110.980538012887
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,104.783024424308
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,101.283321872926
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,98.44709281329
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,97.4270251334841
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,96.395037677377
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,95.715627369582
+ITA,Italy,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,94.5356598825873
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,104.270506798433
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,100.194399742189
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,99.7961641781713
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,100.0
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,99.0747290314779
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,98.4497667952571
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,98.4500006203685
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,98.5232521694806
+JPN,Japan,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,98.1112395366545
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2023,122.273351936757
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2022,118.026303631687
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2021,110.171637807436
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2020,105.360875506381
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2019,103.979166303616
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2018,102.290890276943
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2017,100.0
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2016,98.24070227512
+USA,United States,NY.GDP.DEFL.ZS,GDP deflator: linked series (base year varies by country),2015,97.3158875215683
